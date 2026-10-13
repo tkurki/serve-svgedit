@@ -1,0 +1,10 @@
+{
+  "name": "svgedit-serve",
+  "version": "1.0.0",
+  "description": "Serve SVG-Edit on localhost with one npx command",
+  "bin": { "svgedit-serve": "index.js" },
+  "files": ["index.js"],
+  "dependencies": { "svgedit": "7.4.2" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
